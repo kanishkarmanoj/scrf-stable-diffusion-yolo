@@ -1,5 +1,5 @@
 # Stable Diffusion Text-to-Image Generation  
-This project utilizes the Stable Diffusion model, a state-of-the-art text-to-image generation model. By using a combination of advanced neural network architectures and diffusion-based methods, the model can generate high-quality images based on textual descriptions.  
+This project utilizes the Stable Diffusion model, a state-of-the-art text-to-image generation model. By using a combination of advanced neural network architectures and diffusion-based methods, the model can generate high-quality images based on textual descriptions via prompts.  
 ---
 # Components:
 AutoencoderKL (VAE): The Variational Autoencoder (VAE) is responsible for encoding and decoding images. It compresses images into latent representations and reconstructs them back to image space.  
